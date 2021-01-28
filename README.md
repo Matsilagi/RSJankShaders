@@ -1,5 +1,6 @@
 # RSJankShaders
- A set of random / unfitting shaders ported and programmed from Various places, this doesn't fit the criteria for any of my other repos and have way better alternatives, so they will stay here at this repo, instead of the main one.
+ A set of random / unfitting shaders ported and programmed from Various places, this doesn't fit the criteria for any of my other repos and have way better alternatives, so they will stay here at this repo, instead of the main one. 
+ 
  If you like what you see, consider dropping a coin at my PayPal at that email: matsilagi2@hotmail.com. Any amount is appreciated.
 
 #### CONTENTS
