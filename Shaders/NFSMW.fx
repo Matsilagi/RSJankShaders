@@ -40,10 +40,12 @@ static const float4 cDownSampleOffset1 = float4(
 	Third Value = Blue %
 */
 
+/*
 cCoeffs0 = Screen Color
 cCoeffs1 = darks Color
 cCoeffs2 = dark Bloom color
 cCoeffs2 = Bright Bloom color
+*/
 
 /*static const float4 cCoeffs0 = float4(0.0, 1.0, 0.0, 0.0);
 static const float4 cCoeffs1 = float4(0.3032787, 0.6315789, 0.0, 0.0);
